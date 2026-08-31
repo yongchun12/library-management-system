@@ -1,0 +1,42 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build results
+bin/
+obj/
+Debug/
+Release/
+x64/
+x86/
+[Bb]uild/
+[Ll]og/
+
+# .NET
+*.dll
+*.exe
+*.pdb
+*.cache
+*.ilk
+*.meta
+*.tmp
+
+# NuGet
+*.nupkg
+packages/
+.nuget/
+
+# SQL Server
+*.mdf
+*.ldf
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Rider / JetBrains
+.idea/
+*.sln.iml
